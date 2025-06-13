@@ -12,6 +12,10 @@ Feel free to use any frontend framework and libraries you prefer — there’s n
 
 If you have any questions, feel free to reach out — we're happy to clarify anything.
 
+## Client
+
+_see [client/README.md](client/README.md) for details_
+
 ## Time Consideration
 
 We value your time! If this assignment takes you more than 8 hours, please submit whatever you have at that point.
