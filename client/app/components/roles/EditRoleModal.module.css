@@ -1,0 +1,32 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  margin-block-end: var(--space-3);
+
+  & > label {
+    margin-block-end: var(--space-2);
+  }
+}
+
+.error {
+  color: var(--red-indicator);
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-1);
+  margin-block-start: var(--space-1);
+}
+
+.description {
+  color: var(--text-secondary);
+  margin-block-end: var(--space-4);
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--space-3);
+  margin-block-start: var(--space-4);
+
+  & > button {
+    inline-size: fit-content;
+  }
+}

@@ -1,0 +1,12 @@
+.deleteItemButton {
+  background-color: transparent;
+  border: none;
+  color: var(--color-text);
+  cursor: pointer;
+  padding: 0;
+
+  &:hover {
+    background-color: transparent;
+    border: none;
+  }
+}

@@ -1,0 +1,3 @@
+.searchContainer:has(+ div) {
+ margin-block-end: var(--space-5);
+}
